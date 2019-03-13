@@ -1,4 +1,4 @@
-title: Long Haul
+title: MS
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
 url: http://brianmaierjr.github.com/long-haul
@@ -20,9 +20,7 @@ navigation:
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
+  github: reason1241
+  email: reason1241@naver.com
 
 google_analytics: "UA-58263416-1"
