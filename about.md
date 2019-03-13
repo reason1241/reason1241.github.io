@@ -15,6 +15,6 @@ title: About MS
 	<p>Wed, January 2 2019 ~ NHN</p>
 	
 	<h3>관심사</h3>
-	<p>컴퓨터, 외국어, </p>
+	<p>컴퓨터, 외국어, 경제 </p>
 	
 </div>
